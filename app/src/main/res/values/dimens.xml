@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16</dimen>
+    <dimen name="defailt_padding">16</dimen>
+    <dimen name="default_padding">12</dimen>
+</resources>

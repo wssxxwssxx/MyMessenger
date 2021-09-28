@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up_solicitation">Don\'t have an account? Sign up!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="phone_number">Phone number</string>
+    <string name="action_settings">settings</string>
+    <string name="hint_enter_a_message">Type a message…</string>
+
+    <!--  Account settings -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_account">Account</string>
+    <string name="action_logout">logout</string>
+</resources>
